@@ -20,9 +20,9 @@ A passionate software developer and computer applications student (BCA) who love
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://np.linkedin.com/in/aryanrauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/AryanRnyr/AryanRnyr/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://np.linkedin.com/in/aryanrauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/AryanRnyr/AryanRnyr/main/images/icons/social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:contact@aryanrauniyar.com.np" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/AryanRnyr/AryanRnyr/images/icons/Social/new-post.png" alt="Email" width="40" height="30" />
+  <img align="center" src="https://raw.githubusercontent.com/AryanRnyr/AryanRnyr/main/images/icons/social/new-post.png" alt="Email" width="40" height="30" />
 </a>
 </p>
 
