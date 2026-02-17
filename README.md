@@ -4,7 +4,7 @@
 A passionate software developer and computer applications student (BCA) who loves building real-world projects with clean design and scalable functionality. 
 </p>
 
-- 💻 I’m currently working on [Lernova - (Learning Management System)]
+- 💻 I’m currently working on [Lernova - Learning Management System](https://lernova.aryanrauniyar.com.np/)
 
 - 🔭 I’ve built projects like [Bus Reservation System](https://bus.aryanrauniyar.com.np/) & [TechMart E-Commerce](https://techmart.aryanrauniyar.com.np/)  
 
